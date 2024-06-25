@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="AutoCompleteTextView">
+            <item name="android:background">@drawable/dropdown_background</item> <!-- Фон для TextView -->
+            <item name="android:popupBackground">@drawable/rounded_drawable</item> <!-- Фон для выпадающего списка -->
+            <item name="android:dropDownVerticalOffset">16dp</item> <!-- Отступ для выпадающего списка -->
+        </style>
+
+</resources>

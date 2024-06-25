@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+
+        <string name="humidity_text">Humidity: %d%%</string>
+        <string name="wind_speed_ms">Wind Speed: %.1f m/s</string>
+        <string name="wind_speed_kmh">Wind Speed: %.1f km/h</string>
+        <string name="weather_icon">Weather Icon</string>
+    <string name="temperature_text">%1$.2f°</string>
+    <string name="weather_details_text">Feels Like: %1$.2f°, Wind: %2$.2f m/s\nPressure: %3$d hPa, Humidity: %4$d%%</string>
+
+</resources>
